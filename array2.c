@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-
+	printf(" ABCD \n");
 	int arr1[5], arr2[5];
 	printf("Enter the elements of array: \n");
 	for (int i = 0; i < 5; i++)
